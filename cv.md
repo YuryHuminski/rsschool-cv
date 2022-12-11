@@ -1,0 +1,40 @@
+# _Yury Huminski_
+---
+## _Performance Analyst_
+---
+## Contact information: 
+Phone: +48571376231\
+E-mail: yury_huminski@epam.com 
+
+---
+## About Myself:
+Performance Analyst with experience in load and e2e testing and performance analysis.
+Target projects: eCommerce solutions; Learning management systems; Industrial machine-building and metallurgical systems; Scientific and research frameworks and services.
+
+Also, I have experience with 3d constructions/design. In free time I like to do modelling and visualization in 3Ds Max. [link] : https://www.artstation.com/tamaby3d "Artstation"
+
+---
+## Key skills and experience:1401:
+* Expertise covers Apache Jmeter technologies including load testing methodology for eCommerce projects;
+* CI\CD to carry out load\perf testing with Jenkins;
+* Sitespeed, Webpagetest, ChromeDevTools etc.;
+* Expertise covers numerical methods and physical processes simulation;
+* Applicable level of knowledge and skills in performance/Load testing concepts and techniques;
+* AWS (CloudWatch, Lambda, XRay);
+* Java core (Array, Collection, I\O, Exception etc.);
+* Scripting on JavaScript (Array, Objects, Functions etc.);
+* Java core (Array, Collection, I\O, Exceptions etc.);
+* Groovy scripting (jsoup, scriptom, jxl .etc);
+* OOP.
+
+---
+## Code example:
+
+---
+## Courses:
+
+---
+## Languages:
+* English -B1;
+* Polish - A1;
+* Belarusian/Russian - native.
