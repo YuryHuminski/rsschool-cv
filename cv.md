@@ -29,6 +29,19 @@ Also, I have experience with 3d constructions/design. In free time I like to do 
 
 ---
 ## Code example:
+This is the exmaple of funtcion for waiting of selectors in my Sitespeed.io scripts:
+```
+//Wait if exists
+const tryWaitFor = async (selector, time) => { 
+    try {              
+        console.log(`Try to wait for ${selector} in ${time}`);
+        await commands.wait.bySelector(selector, time);
+    }
+    catch(e) {
+        console.log(`${selector} was not located in ${time}`);
+    }
+}
+```
 
 ---
 ## Courses:
