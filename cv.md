@@ -45,7 +45,7 @@ const tryWaitFor = async (selector, time) => {
 
 ---
 ## Courses:
-* *June 2021 - July 2021:* **EPAM eLearn portal** "JavaScript: Arrays, Objects, Functions" by Vitaliy Zhyrytskyy;
+* *June 2021 - July 2021:* **EPAM eLearn portal** «JavaScript: Arrays, Objects, Functions» by Vitaliy Zhyrytskyy;
 * *July 2021 – August 2021:* **EPAM Training Center** «Online Summer Bootcamp 2021»;
 * *March 2021 – Septemver 2021:* **EPAM Training Center** «Junior Test Automation Engineer in Java»;
 * *March 2021 – September 2021:* **Course of Java Rush** «Java Core» (32 level).
