@@ -11,7 +11,7 @@ E-mail: yury_huminski@epam.com
 Performance Analyst with experience in load and e2e testing and performance analysis.
 Target projects: eCommerce solutions; Learning management systems; Industrial machine-building and metallurgical systems; Scientific and research frameworks and services.
 
-Also, I have experience with 3d constructions/design. In free time I like to do modelling and visualization in 3Ds Max. [link] : https://www.artstation.com/tamaby3d "Artstation"
+Also, I have experience with 3d constructions/design. In free time I like to do modelling and visualization in 3Ds Max. [My collection on Artstation](https://www.artstation.com/tamaby3d "Artstation of TamaBy")
 
 ---
 ## Key skills and experience:1401:
